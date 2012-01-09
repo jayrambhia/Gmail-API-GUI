@@ -1,0 +1,4 @@
+Gmail_GUI 1.0
+
+Its GUI for Gmail. Adapted from my Basic-Gmail-API. In the first commit only send mail is enabled.
+It allows you to send multiple attachments to multiple recepients.
